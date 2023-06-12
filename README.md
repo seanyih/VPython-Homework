@@ -25,6 +25,20 @@
 - HW6: Adiabatic Compression and Free Expansion of Ideal Gas
   
   包含兩個檔案: hw6 + hw6_histogram
+  
+###### 下學期
+
+- HW7: Non-ideal Capacitor
+
+- HW8: Drift Velocity
+
+- HW9: Mutual Inductance
+
+- HW10: RLC Circuit and Transient Response
+
+- HW11: Imaging by a Thick Lens
+
+- HW12: Diffraction from a Circular Aperture
 
 ## 使用建議
 
@@ -64,6 +78,7 @@
 
 若不採取以上手段也無妨，因為待批改的作業數通常會多到無法檢查。
 
-
-
+## Credits
+這裡面大概一半都是抄前人的:) 我的工作是補足闕漏跟修正一些小bug、增加一些註解。
+部分原作: https://github.com/rayray2002/no_plagiarism_vpython_sim
 
